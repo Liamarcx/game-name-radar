@@ -1,137 +1,40 @@
 {
-  "checkedAt": "2026-11-16T08:36:10.471Z",
+  "checkedAt": "2026-11-16T14:07:42.304Z",
   "accountApiConsumesSearchCredits": false,
-  "configuredKeys": 4,
-  "workingKeys": 4,
-  "uniqueAccountCount": 4,
+  "configuredKeys": 0,
+  "workingKeys": 0,
+  "uniqueAccountCount": 0,
   "duplicateKeyGroups": [],
-  "totalIndependentSearchesLeft": 35,
-  "accounts": [
-    {
-      "accountFingerprint": "5dfaa092f348",
-      "slotIds": [
-        "1"
-      ],
-      "planName": "Free Plan",
-      "searchesPerMonth": 250,
-      "thisMonthUsage": 244,
-      "totalSearchesLeft": 6,
-      "renewalDate": "2026-11-29"
-    },
-    {
-      "accountFingerprint": "5124b31098ad",
-      "slotIds": [
-        "2"
-      ],
-      "planName": "Free Plan",
-      "searchesPerMonth": 250,
-      "thisMonthUsage": 239,
-      "totalSearchesLeft": 11,
-      "renewalDate": "2026-11-29"
-    },
-    {
-      "accountFingerprint": "fa061d828750",
-      "slotIds": [
-        "3"
-      ],
-      "planName": "Free Plan",
-      "searchesPerMonth": 250,
-      "thisMonthUsage": 240,
-      "totalSearchesLeft": 10,
-      "renewalDate": "2026-11-29"
-    },
-    {
-      "accountFingerprint": "c56df0ffdca3",
-      "slotIds": [
-        "4"
-      ],
-      "planName": "Free Plan",
-      "searchesPerMonth": 250,
-      "thisMonthUsage": 242,
-      "totalSearchesLeft": 8,
-      "renewalDate": "2026-11-29"
-    }
-  ],
+  "totalIndependentSearchesLeft": 0,
+  "accounts": [],
   "slots": [
     {
       "id": "1",
       "envName": "SERPAPI_API_KEY",
-      "configured": true,
-      "ok": true,
-      "accountFingerprint": "5dfaa092f348",
-      "accountStatus": "Active",
-      "planId": "free",
-      "planName": "Free Plan",
-      "planMonthlyPrice": 0,
-      "renewalDate": "2026-11-29",
-      "searchesPerMonth": 250,
-      "thisMonthUsage": 244,
-      "planSearchesLeft": 6,
-      "totalSearchesLeft": 6,
-      "rateLimitPerHour": 250,
-      "checkedAt": "2026-11-16T08:36:10.310Z",
-      "sharedAccount": false,
-      "sharedWithSlots": []
+      "configured": false,
+      "ok": false,
+      "error": null
     },
     {
       "id": "2",
       "envName": "SERPAPI_API_KEY_2",
-      "configured": true,
-      "ok": true,
-      "accountFingerprint": "5124b31098ad",
-      "accountStatus": "Active",
-      "planId": "free",
-      "planName": "Free Plan",
-      "planMonthlyPrice": 0,
-      "renewalDate": "2026-11-29",
-      "searchesPerMonth": 250,
-      "thisMonthUsage": 239,
-      "planSearchesLeft": 11,
-      "totalSearchesLeft": 11,
-      "rateLimitPerHour": 250,
-      "checkedAt": "2026-11-16T08:36:10.368Z",
-      "sharedAccount": false,
-      "sharedWithSlots": []
+      "configured": false,
+      "ok": false,
+      "error": null
     },
     {
       "id": "3",
       "envName": "SERPAPI_API_KEY_3",
-      "configured": true,
-      "ok": true,
-      "accountFingerprint": "fa061d828750",
-      "accountStatus": "Active",
-      "planId": "free",
-      "planName": "Free Plan",
-      "planMonthlyPrice": 0,
-      "renewalDate": "2026-11-29",
-      "searchesPerMonth": 250,
-      "thisMonthUsage": 240,
-      "planSearchesLeft": 10,
-      "totalSearchesLeft": 10,
-      "rateLimitPerHour": 250,
-      "checkedAt": "2026-11-16T08:36:10.420Z",
-      "sharedAccount": false,
-      "sharedWithSlots": []
+      "configured": false,
+      "ok": false,
+      "error": null
     },
     {
       "id": "4",
       "envName": "SERPAPI_API_KEY_4",
-      "configured": true,
-      "ok": true,
-      "accountFingerprint": "c56df0ffdca3",
-      "accountStatus": "Active",
-      "planId": "free",
-      "planName": "Free Plan",
-      "planMonthlyPrice": 0,
-      "renewalDate": "2026-11-29",
-      "searchesPerMonth": 250,
-      "thisMonthUsage": 242,
-      "planSearchesLeft": 8,
-      "totalSearchesLeft": 8,
-      "rateLimitPerHour": 250,
-      "checkedAt": "2026-11-16T08:36:10.471Z",
-      "sharedAccount": false,
-      "sharedWithSlots": []
+      "configured": false,
+      "ok": false,
+      "error": null
     },
     {
       "id": "5",
