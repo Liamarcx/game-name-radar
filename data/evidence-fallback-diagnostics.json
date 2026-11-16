@@ -1,50 +1,51 @@
 {
-  "generatedAt": "2026-11-16T14:07:40.451Z",
+  "generatedAt": "2026-11-16T23:23:04.243Z",
   "totalCandidates": 3000,
   "pendingSeo": 2283,
   "channelCounts": {
-    "pending": 634,
-    "wiki": 6,
-    "online": 1643
+    "pending": 636,
+    "wiki": 12,
+    "online": 1635
   },
   "fastClassCounts": {
-    "pending:pending": 634,
-    "wiki:pending": 6,
-    "online:pending": 1643
+    "pending:pending": 636,
+    "wiki:pending": 12,
+    "online:pending": 1635
   },
   "strategicCounts": {
-    "pending:0": 628,
+    "pending:0": 630,
     "wiki:0": 4,
     "online:3": 7,
-    "online:2": 614,
-    "online:1": 1022,
-    "wiki:1": 2,
+    "online:2": 616,
+    "online:1": 1012,
+    "wiki:2": 1,
+    "wiki:1": 7,
     "pending:1": 6
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1598
+      "count": 1590
     },
     {
       "id": "itch-newest-web",
-      "count": 1581
+      "count": 1573
     },
     {
       "id": "itch-new-feed",
-      "count": 1528
+      "count": 1520
     },
     {
       "id": "itch-new-popular-web",
-      "count": 600
+      "count": 602
     },
     {
       "id": "itch-popular",
-      "count": 600
+      "count": 602
     },
     {
       "id": "trends-rising-7d",
-      "count": 539
+      "count": 541
     },
     {
       "id": "trends-rising-30d",
@@ -52,7 +53,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 265
+      "count": 266
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -60,7 +61,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 179
+      "count": 180
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -76,11 +77,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 31
+      "count": 32
     },
     {
       "id": "steam-new",
-      "count": 31
+      "count": 32
     },
     {
       "id": "newgrounds-latest",
@@ -108,7 +109,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 9
+      "count": 15
     },
     {
       "id": "y8-new",
@@ -339,7 +340,7 @@
       ]
     },
     {
-      "name": "[FULL] DECOGEAR DIMENSIONS",
+      "name": "Jensen Huang - I'll Be Back!",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -348,12 +349,32 @@
       "browserPlayable": true,
       "nameRisk": 0,
       "strategicCount": 2,
-      "sourceCount": 4,
+      "sourceCount": 5,
       "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
         "itch-new-popular-web",
-        "itch-popular",
-        "itch-featured-feed",
-        "itch-featured"
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Choo Choo Kingdom",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -562,6 +583,24 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "[FULL] DECOGEAR DIMENSIONS",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-featured-feed",
+        "itch-featured"
       ]
     },
     {
@@ -1063,44 +1102,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Hermitap Web Demo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Pack Ripper",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
