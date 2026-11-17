@@ -1,39 +1,38 @@
 {
-  "generatedAt": "2026-11-16T23:23:04.243Z",
+  "generatedAt": "2026-11-17T05:15:40.878Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2283,
+  "pendingSeo": 2281,
   "channelCounts": {
     "pending": 636,
-    "wiki": 12,
-    "online": 1635
+    "wiki": 13,
+    "online": 1632
   },
   "fastClassCounts": {
     "pending:pending": 636,
-    "wiki:pending": 12,
-    "online:pending": 1635
+    "wiki:pending": 13,
+    "online:pending": 1632
   },
   "strategicCounts": {
-    "pending:0": 630,
+    "pending:0": 631,
     "wiki:0": 4,
     "online:3": 7,
-    "online:2": 616,
-    "online:1": 1012,
-    "wiki:2": 1,
-    "wiki:1": 7,
-    "pending:1": 6
+    "online:2": 617,
+    "online:1": 1008,
+    "wiki:1": 9,
+    "pending:1": 5
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1590
+      "count": 1586
     },
     {
       "id": "itch-newest-web",
-      "count": 1573
+      "count": 1569
     },
     {
       "id": "itch-new-feed",
-      "count": 1520
+      "count": 1516
     },
     {
       "id": "itch-new-popular-web",
@@ -45,7 +44,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 541
+      "count": 542
     },
     {
       "id": "trends-rising-30d",
@@ -53,7 +52,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 266
+      "count": 267
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -77,11 +76,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 32
+      "count": 31
     },
     {
       "id": "steam-new",
-      "count": 32
+      "count": 31
     },
     {
       "id": "newgrounds-latest",
@@ -101,19 +100,19 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 26
+      "count": 25
     },
     {
       "id": "itch-featured",
-      "count": 26
+      "count": 25
     },
     {
       "id": "steam-popular-new",
-      "count": 15
+      "count": 16
     },
     {
       "id": "y8-new",
-      "count": 6
+      "count": 7
     },
     {
       "id": "steam-top-wishlist",
@@ -125,7 +124,7 @@
     },
     {
       "id": "lagged-new",
-      "count": 2
+      "count": 3
     },
     {
       "id": "crazygames-new",
@@ -316,27 +315,6 @@
         "itch-new-popular-web",
         "itch-popular",
         "steam-popular-new"
-      ]
-    },
-    {
-      "name": "Cycle of the First Dawn",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 18,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 7,
-      "strategicCount": 2,
-      "sourceCount": 7,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular",
-        "steam-latest-indie",
-        "steam-new"
       ]
     },
     {
@@ -552,6 +530,27 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 11,
+      "strategicCount": 2,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
+      "name": "Cycle of the First Dawn",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 16,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 7,
       "strategicCount": 2,
       "sourceCount": 7,
       "sourceIds": [
