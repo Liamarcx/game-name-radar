@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-11-17T14:25:41.146Z",
+  "generatedAt": "2026-11-17T22:39:37.279Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2276,
+  "pendingSeo": 2272,
   "channelCounts": {
-    "pending": 636,
-    "wiki": 14,
-    "online": 1626
+    "pending": 642,
+    "wiki": 15,
+    "online": 1615
   },
   "fastClassCounts": {
-    "pending:pending": 636,
-    "wiki:pending": 14,
-    "online:pending": 1626
+    "pending:pending": 642,
+    "wiki:pending": 15,
+    "online:pending": 1615
   },
   "strategicCounts": {
-    "pending:0": 631,
+    "pending:0": 637,
     "wiki:0": 4,
     "online:3": 7,
-    "online:2": 616,
-    "online:1": 1003,
-    "wiki:1": 10,
+    "online:2": 617,
+    "online:1": 991,
+    "wiki:1": 11,
     "pending:1": 5
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1581
+      "count": 1570
     },
     {
       "id": "itch-newest-web",
-      "count": 1564
+      "count": 1553
     },
     {
       "id": "itch-new-feed",
-      "count": 1511
+      "count": 1500
     },
     {
       "id": "itch-new-popular-web",
-      "count": 602
+      "count": 603
     },
     {
       "id": "itch-popular",
-      "count": 602
+      "count": 603
     },
     {
       "id": "trends-rising-7d",
-      "count": 542
+      "count": 548
     },
     {
       "id": "trends-rising-30d",
-      "count": 416
+      "count": 420
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -56,19 +56,19 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 234
+      "count": 235
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 180
+      "count": 185
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 113
+      "count": 114
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 103
+      "count": 106
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -76,11 +76,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 31
+      "count": 32
     },
     {
       "id": "steam-new",
-      "count": 31
+      "count": 32
     },
     {
       "id": "newgrounds-latest",
@@ -108,7 +108,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 17
+      "count": 18
     },
     {
       "id": "y8-new",
@@ -315,6 +315,46 @@
         "itch-new-popular-web",
         "itch-popular",
         "steam-popular-new"
+      ]
+    },
+    {
+      "name": "Zone Idle",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 18,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
+      "name": "Kethra Idle",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1063,44 +1103,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Demon Kitty Trials!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Manymancer",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
