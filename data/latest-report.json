@@ -1,30 +1,30 @@
 {
-  "scannedAt": "2026-11-17T05:15:13.071Z",
+  "scannedAt": "2026-11-17T14:25:18.817Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 265,
+  "totalAdded": 262,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 35
+      "added": 36
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 3
+      "added": 9
     },
     {
       "ok": true,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
       "total": 36,
-      "added": 35
+      "added": 36
     },
     {
       "ok": true,
@@ -38,56 +38,56 @@
       "sourceId": "steam-top-wishlist",
       "sourceName": "Steam Top Wishlists",
       "total": 50,
-      "added": 0
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 50,
-      "added": 48
+      "added": 50
     },
     {
       "ok": true,
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 50
+      "added": 49
     },
     {
       "ok": true,
       "sourceId": "newgrounds-daily-top",
       "sourceName": "Newgrounds Daily Top Five",
       "total": 5,
-      "added": 5
+      "added": 0
     },
     {
       "ok": true,
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 6
+      "added": 10
     },
     {
       "ok": true,
       "sourceId": "crazygames-new",
       "sourceName": "CrazyGames 新游戏",
       "total": 70,
-      "added": 2
+      "added": 8
     },
     {
       "ok": true,
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
-      "total": 141,
-      "added": 2
+      "total": 150,
+      "added": 9
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
-      "total": 73,
-      "added": 45
+      "total": 71,
+      "added": 46
     },
     {
       "ok": false,
@@ -100,57 +100,51 @@
       "sourceId": "lagged-new",
       "sourceName": "Lagged 新游戏",
       "total": 82,
-      "added": 0
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-7d-itch-io",
-      "sourceName": "Trends上涨 7天 · itch io",
-      "total": 7,
-      "added": 3
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-30d-itch-io",
-      "sourceName": "Trends上涨 30天 · itch io",
-      "total": 20,
       "added": 7
     },
     {
-      "ok": true,
+      "ok": false,
+      "sourceId": "trends-rising-7d-itch-io",
+      "sourceName": "Trends上涨 7天 · itch io",
+      "error": "Unexpected token 'L', \"L><HEAD><m\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-30d-itch-io",
+      "sourceName": "Trends上涨 30天 · itch io",
+      "error": "Unexpected token 'L', \"L><HEAD><m\"... is not valid JSON"
+    },
+    {
+      "ok": false,
       "sourceId": "trends-rising-7d-indie-game",
       "sourceName": "Trends上涨 7天 · indie game",
-      "total": 18,
-      "added": 6
+      "error": "Unexpected token 'L', \"L><HEAD><m\"... is not valid JSON"
     },
     {
-      "ok": true,
+      "ok": false,
       "sourceId": "trends-rising-30d-indie-game",
       "sourceName": "Trends上涨 30天 · indie game",
-      "total": 21,
-      "added": 8
+      "error": "Unexpected token 'L', \"L><HEAD><m\"... is not valid JSON"
     },
     {
-      "ok": true,
+      "ok": false,
       "sourceId": "trends-rising-7d-horror-game",
       "sourceName": "Trends上涨 7天 · horror game",
-      "total": 12,
-      "added": 6
+      "error": "Unexpected token 'L', \"L><HEAD><m\"... is not valid JSON"
     },
     {
-      "ok": true,
+      "ok": false,
       "sourceId": "trends-rising-30d-horror-game",
       "sourceName": "Trends上涨 30天 · horror game",
-      "total": 16,
-      "added": 4
+      "error": "Unexpected token 'L', \"L><HEAD><m\"... is not valid JSON"
     }
   ],
   "seoVerified": 0,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 358,
-  "fastWatchCount": 222,
-  "fastRejectedCount": 139,
+  "fastPassedCount": 359,
+  "fastWatchCount": 225,
+  "fastRejectedCount": 140,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
   "youtubeVerified": 0,
@@ -162,9 +156,9 @@
   "risingDiscoveryRan": true,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 595,
-  "trendEligibleCount": 287,
-  "trendPendingCount": 287,
+  "seoPassedCount": 600,
+  "trendEligibleCount": 288,
+  "trendPendingCount": 288,
   "trendValidatedCount": 399,
   "risingCount": 3,
   "globalRisingCount": 0,
@@ -172,9 +166,9 @@
     "independent": 0,
     "test-now": 0,
     "page": 3,
-    "watch": 506,
+    "watch": 509,
     "reject": 0,
-    "pending": 2491,
+    "pending": 2488,
     "error": 0
   },
   "trendProvider": "serpapi",
@@ -194,7 +188,7 @@
   },
   "apifyConfigured": false,
   "apifyAccountStatus": {
-    "checkedAt": "2026-11-17T05:15:12.040Z",
+    "checkedAt": "2026-11-17T14:25:17.727Z",
     "configured": false,
     "ok": false,
     "provider": "apify",
@@ -212,7 +206,7 @@
   },
   "seoProvider": "duckduckgo-html",
   "seoProviderCounts": {
-    "evidence-fallback": 376,
+    "evidence-fallback": 380,
     "serper+autocomplete": 247,
     "duckduckgo+autocomplete": 102
   },
@@ -243,8 +237,8 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2064,
-    "wiki": 200,
+    "online": 2059,
+    "wiki": 205,
     "pending": 736
   },
   "wikiPrelaunchModelVersion": 2,
@@ -252,7 +246,7 @@
     "priority": 0,
     "prepare": 1,
     "watch": 5,
-    "weak": 194
+    "weak": 199
   },
   "serperVerification": {
     "rushMode": true,
@@ -265,7 +259,7 @@
     "limit": 90,
     "onlineLimit": 63,
     "wikiLimit": 27,
-    "queueSize": 87,
+    "queueSize": 88,
     "verified": 0,
     "verifiedByChannel": {
       "online": 0,
@@ -275,35 +269,34 @@
     "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-11-17T05:15:40.599Z"
+    "ranAt": "2026-11-17T14:25:40.950Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 180,
-    "pendingCount": 2281,
-    "eligibleCount": 5,
-    "queueSize": 5,
-    "verified": 5,
+    "pendingCount": 2276,
+    "eligibleCount": 4,
+    "queueSize": 4,
+    "verified": 4,
     "channelVerified": {
-      "online": 1,
+      "online": 0,
       "wiki": 4,
       "pending": 0
     },
     "fastRecalculated": {
-      "pass": 1,
+      "pass": 0,
       "watch": 4,
       "weak": 0,
       "reject": 0,
       "pending": 0
     },
     "verifiedNames": [
-      "Blocktrail 2048",
-      "Clicky Islands",
-      "just volleyball",
-      "Spirit Crossing",
-      "Trees Hate You"
+      "Func Key",
+      "Warpack",
+      "Topdeck Automat",
+      "Space Engineers - Warfare 3 Pack"
     ],
-    "ranAt": "2026-11-17T05:15:41.423Z"
+    "ranAt": "2026-11-17T14:25:41.528Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 3,
@@ -325,10 +318,10 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-11-17T05:15:42.682Z"
+    "ranAt": "2026-11-17T14:25:42.410Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-11-17T05:15:42.758Z",
+    "checkedAt": "2026-11-17T14:25:42.454Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 0,
     "workingKeys": 0,
@@ -385,7 +378,7 @@
     "monthlyLimit": 0,
     "dailyLimit": 0,
     "accounts": {},
-    "updatedAt": "2026-11-17T05:15:42.871Z"
+    "updatedAt": "2026-11-17T14:25:42.522Z"
   },
   "serpApiQuotaFill": {
     "configuredSlots": 0
@@ -439,15 +432,15 @@
     },
     "pendingByChannel": {
       "online": 340,
-      "wiki": 72
+      "wiki": 75
     },
     "pendingByTier": {
       "strong": 233,
-      "secondary": 156,
+      "secondary": 159,
       "strategic": 23
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-11-17T05:15:43.524Z"
+    "ranAt": "2026-11-17T14:25:42.982Z"
   }
 }
