@@ -1,54 +1,55 @@
 {
-  "generatedAt": "2026-11-18T13:00:21.958Z",
+  "generatedAt": "2026-11-18T21:24:50.310Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2262,
+  "pendingSeo": 2260,
   "channelCounts": {
-    "pending": 648,
-    "wiki": 8,
-    "online": 1606
+    "pending": 649,
+    "wiki": 9,
+    "online": 1602
   },
   "fastClassCounts": {
-    "pending:pending": 648,
-    "wiki:pending": 8,
-    "online:pending": 1606
+    "pending:pending": 649,
+    "wiki:pending": 9,
+    "online:pending": 1602
   },
   "strategicCounts": {
-    "pending:0": 643,
+    "pending:0": 645,
     "wiki:0": 4,
     "online:3": 7,
-    "online:2": 617,
-    "online:1": 982,
+    "online:2": 618,
+    "online:1": 977,
+    "wiki:2": 1,
     "wiki:1": 4,
-    "pending:1": 5
+    "pending:1": 4
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1561
+      "count": 1557
     },
     {
       "id": "itch-newest-web",
-      "count": 1544
+      "count": 1540
     },
     {
       "id": "itch-new-feed",
-      "count": 1491
+      "count": 1487
     },
     {
       "id": "itch-new-popular-web",
-      "count": 603
+      "count": 604
     },
     {
       "id": "itch-popular",
-      "count": 603
+      "count": 604
     },
     {
       "id": "trends-rising-7d",
-      "count": 554
+      "count": 555
     },
     {
       "id": "trends-rising-30d",
-      "count": 425
+      "count": 427
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -60,7 +61,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 191
+      "count": 192
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -68,7 +69,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 111
+      "count": 113
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -76,11 +77,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 32
+      "count": 34
     },
     {
       "id": "steam-new",
-      "count": 32
+      "count": 34
     },
     {
       "id": "newgrounds-latest",
@@ -100,15 +101,15 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 25
+      "count": 24
     },
     {
       "id": "itch-featured",
-      "count": 25
+      "count": 24
     },
     {
       "id": "steam-popular-new",
-      "count": 11
+      "count": 12
     },
     {
       "id": "y8-new",
@@ -318,6 +319,27 @@
       ]
     },
     {
+      "name": "Let Me Die",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 18,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
       "name": "Zone Idle",
       "channel": "online",
       "fastClass": "pending",
@@ -336,6 +358,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Gear Loop",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1073,44 +1114,6 @@
         "itch-new-popular-web",
         "itch-popular",
         "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Project Hail Meowy",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Tamaweb: Virtual Pet",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
       ]
     }
   ]
