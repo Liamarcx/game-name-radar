@@ -1,23 +1,23 @@
 {
-  "scannedAt": "2026-11-18T03:51:25.260Z",
+  "scannedAt": "2026-11-18T12:59:54.912Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 227,
+  "totalAdded": 279,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 36
+      "added": 34
     },
     {
       "ok": true,
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 3
+      "added": 9
     },
     {
       "ok": true,
@@ -38,56 +38,56 @@
       "sourceId": "steam-top-wishlist",
       "sourceName": "Steam Top Wishlists",
       "total": 50,
-      "added": 1
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 50,
-      "added": 29
+      "added": 41
     },
     {
       "ok": true,
       "sourceId": "steam-latest-indie",
       "sourceName": "Steam 最新独立游戏",
       "total": 50,
-      "added": 49
+      "added": 50
     },
     {
       "ok": true,
       "sourceId": "newgrounds-daily-top",
       "sourceName": "Newgrounds Daily Top Five",
       "total": 5,
-      "added": 0
+      "added": 5
     },
     {
       "ok": true,
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 6
+      "added": 12
     },
     {
       "ok": true,
       "sourceId": "crazygames-new",
       "sourceName": "CrazyGames 新游戏",
       "total": 70,
-      "added": 0
+      "added": 10
     },
     {
       "ok": true,
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
-      "total": 154,
-      "added": 2
+      "total": 143,
+      "added": 3
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 72,
-      "added": 43
+      "added": 51
     },
     {
       "ok": false,
@@ -99,58 +99,58 @@
       "ok": true,
       "sourceId": "lagged-new",
       "sourceName": "Lagged 新游戏",
-      "total": 82,
-      "added": 0
+      "total": 81,
+      "added": 3
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-itch-io",
       "sourceName": "Trends上涨 7天 · itch io",
-      "total": 5,
-      "added": 2
+      "total": 6,
+      "added": 3
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-itch-io",
       "sourceName": "Trends上涨 30天 · itch io",
-      "total": 12,
-      "added": 3
+      "total": 15,
+      "added": 5
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-indie-game",
       "sourceName": "Trends上涨 7天 · indie game",
-      "total": 17,
-      "added": 7
+      "total": 22,
+      "added": 9
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-indie-game",
       "sourceName": "Trends上涨 30天 · indie game",
-      "total": 17,
-      "added": 4
+      "total": 18,
+      "added": 6
     },
     {
       "ok": true,
       "sourceId": "trends-rising-7d-horror-game",
       "sourceName": "Trends上涨 7天 · horror game",
-      "total": 9,
-      "added": 4
+      "total": 8,
+      "added": 1
     },
     {
       "ok": true,
       "sourceId": "trends-rising-30d-horror-game",
       "sourceName": "Trends上涨 30天 · horror game",
-      "total": 16,
-      "added": 4
+      "total": 14,
+      "added": 1
     }
   ],
   "seoVerified": 0,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 359,
-  "fastWatchCount": 225,
-  "fastRejectedCount": 148,
+  "fastPassedCount": 360,
+  "fastWatchCount": 226,
+  "fastRejectedCount": 152,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
   "youtubeVerified": 0,
@@ -162,9 +162,9 @@
   "risingDiscoveryRan": true,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 608,
-  "trendEligibleCount": 288,
-  "trendPendingCount": 288,
+  "seoPassedCount": 614,
+  "trendEligibleCount": 289,
+  "trendPendingCount": 289,
   "trendValidatedCount": 399,
   "risingCount": 3,
   "globalRisingCount": 0,
@@ -172,9 +172,9 @@
     "independent": 0,
     "test-now": 0,
     "page": 3,
-    "watch": 510,
+    "watch": 508,
     "reject": 0,
-    "pending": 2487,
+    "pending": 2489,
     "error": 0
   },
   "trendProvider": "serpapi",
@@ -194,7 +194,7 @@
   },
   "apifyConfigured": false,
   "apifyAccountStatus": {
-    "checkedAt": "2026-11-18T03:51:24.179Z",
+    "checkedAt": "2026-11-18T12:59:54.121Z",
     "configured": false,
     "ok": false,
     "provider": "apify",
@@ -212,7 +212,7 @@
   },
   "seoProvider": "duckduckgo-html",
   "seoProviderCounts": {
-    "evidence-fallback": 390,
+    "evidence-fallback": 392,
     "serper+autocomplete": 247,
     "duckduckgo+autocomplete": 102
   },
@@ -243,9 +243,9 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 2043,
+    "online": 2040,
     "wiki": 212,
-    "pending": 745
+    "pending": 748
   },
   "wikiPrelaunchModelVersion": 2,
   "wikiPrelaunchCounts": {
@@ -265,7 +265,7 @@
     "limit": 90,
     "onlineLimit": 63,
     "wikiLimit": 27,
-    "queueSize": 88,
+    "queueSize": 82,
     "verified": 0,
     "verifiedByChannel": {
       "online": 0,
@@ -275,36 +275,32 @@
     "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-11-18T03:51:53.361Z"
+    "ranAt": "2026-11-18T13:00:21.734Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 180,
-    "pendingCount": 2268,
-    "eligibleCount": 6,
-    "queueSize": 6,
-    "verified": 6,
+    "pendingCount": 2262,
+    "eligibleCount": 2,
+    "queueSize": 2,
+    "verified": 2,
     "channelVerified": {
       "online": 0,
-      "wiki": 6,
+      "wiki": 2,
       "pending": 0
     },
     "fastRecalculated": {
       "pass": 0,
-      "watch": 5,
+      "watch": 1,
       "weak": 1,
       "reject": 0,
       "pending": 0
     },
     "verifiedNames": [
-      "Ranger’s Path: National Park Simulator",
-      "Dawn of Defense",
-      "Milki Delivery",
-      "Below the Stone",
-      "Link Loop",
-      "BALL PICKER - Clean Up the Golf Yard"
+      "Hypernet Explorer",
+      "Sol One"
     ],
-    "ranAt": "2026-11-18T03:51:54.125Z"
+    "ranAt": "2026-11-18T13:00:22.393Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 3,
@@ -326,10 +322,10 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-11-18T03:51:55.296Z"
+    "ranAt": "2026-11-18T13:00:23.462Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-11-18T03:51:55.374Z",
+    "checkedAt": "2026-11-18T13:00:23.523Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 0,
     "workingKeys": 0,
@@ -386,7 +382,7 @@
     "monthlyLimit": 0,
     "dailyLimit": 0,
     "accounts": {},
-    "updatedAt": "2026-11-18T03:51:55.468Z"
+    "updatedAt": "2026-11-18T13:00:23.644Z"
   },
   "serpApiQuotaFill": {
     "configuredSlots": 0
@@ -440,15 +436,15 @@
     },
     "pendingByChannel": {
       "online": 341,
-      "wiki": 84
+      "wiki": 86
     },
     "pendingByTier": {
-      "strong": 233,
-      "secondary": 160,
-      "strategic": 32
+      "strong": 234,
+      "secondary": 157,
+      "strategic": 36
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-11-18T03:51:56.054Z"
+    "ranAt": "2026-11-18T13:00:24.182Z"
   }
 }
