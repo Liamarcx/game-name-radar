@@ -1,39 +1,38 @@
 {
-  "generatedAt": "2026-11-18T21:24:50.310Z",
+  "generatedAt": "2026-11-19T02:49:33.627Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2260,
+  "pendingSeo": 2259,
   "channelCounts": {
-    "pending": 649,
-    "wiki": 9,
-    "online": 1602
+    "pending": 650,
+    "wiki": 10,
+    "online": 1599
   },
   "fastClassCounts": {
-    "pending:pending": 649,
-    "wiki:pending": 9,
-    "online:pending": 1602
+    "pending:pending": 650,
+    "wiki:pending": 10,
+    "online:pending": 1599
   },
   "strategicCounts": {
-    "pending:0": 645,
+    "pending:0": 647,
     "wiki:0": 4,
     "online:3": 7,
     "online:2": 618,
-    "online:1": 977,
-    "wiki:2": 1,
-    "wiki:1": 4,
-    "pending:1": 4
+    "online:1": 974,
+    "wiki:1": 6,
+    "pending:1": 3
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1557
+      "count": 1554
     },
     {
       "id": "itch-newest-web",
-      "count": 1540
+      "count": 1537
     },
     {
       "id": "itch-new-feed",
-      "count": 1487
+      "count": 1484
     },
     {
       "id": "itch-new-popular-web",
@@ -45,15 +44,15 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 555
+      "count": 558
     },
     {
       "id": "trends-rising-30d",
-      "count": 427
+      "count": 428
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 267
+      "count": 269
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -61,15 +60,15 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 192
+      "count": 193
+    },
+    {
+      "id": "trends-rising-30d-indie-game",
+      "count": 114
     },
     {
       "id": "trends-rising-7d-itch-io",
       "count": 114
-    },
-    {
-      "id": "trends-rising-30d-indie-game",
-      "count": 113
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -101,15 +100,15 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 24
+      "count": 23
     },
     {
       "id": "itch-featured",
-      "count": 24
+      "count": 23
     },
     {
       "id": "steam-popular-new",
-      "count": 12
+      "count": 14
     },
     {
       "id": "y8-new",
@@ -319,7 +318,48 @@
       ]
     },
     {
+      "name": "Graveyard Orbit",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 20,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 6,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-popular-new"
+      ]
+    },
+    {
       "name": "Let Me Die",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 18,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
+      "name": "Oh Shear!",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1076,44 +1116,6 @@
         "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "PostalHaste",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Kirby ~ Soft & Wet",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular",
-        "itch-new-feed"
       ]
     }
   ]
