@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-23T01:39:27.543Z",
+  "generatedAt": "2026-11-23T09:46:40.164Z",
   "totalCandidates": 3000,
   "pendingSeo": 2245,
   "channelCounts": {
-    "pending": 671,
-    "wiki": 5,
-    "online": 1569
+    "pending": 673,
+    "online": 1567,
+    "wiki": 5
   },
   "fastClassCounts": {
-    "pending:pending": 671,
-    "wiki:pending": 5,
-    "online:pending": 1569
+    "pending:pending": 673,
+    "online:pending": 1567,
+    "wiki:pending": 5
   },
   "strategicCounts": {
-    "pending:0": 669,
+    "pending:0": 671,
+    "online:2": 620,
     "wiki:0": 4,
     "online:3": 7,
-    "online:2": 620,
-    "online:1": 942,
+    "online:1": 940,
     "wiki:1": 1,
     "pending:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1522
+      "count": 1520
     },
     {
       "id": "itch-newest-web",
-      "count": 1505
+      "count": 1503
     },
     {
       "id": "itch-new-feed",
-      "count": 1452
+      "count": 1450
     },
     {
       "id": "itch-new-popular-web",
@@ -44,11 +44,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 577
+      "count": 580
     },
     {
       "id": "trends-rising-30d",
-      "count": 442
+      "count": 444
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -60,7 +60,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 202
+      "count": 203
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -68,11 +68,11 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 115
+      "count": 117
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 95
+      "count": 98
     },
     {
       "id": "steam-latest-indie",
@@ -275,6 +275,29 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Symptoms of Devotion",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 20,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 9,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "trends-rising-7d-itch-io",
+        "trends-rising-7d",
+        "trends-rising-30d-itch-io",
+        "trends-rising-30d"
       ]
     },
     {
@@ -844,25 +867,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 12,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Symptoms of Devotion",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
