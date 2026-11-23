@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-23T09:46:40.164Z",
+  "generatedAt": "2026-11-23T21:42:47.936Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2245,
+  "pendingSeo": 2244,
   "channelCounts": {
-    "pending": 673,
-    "online": 1567,
-    "wiki": 5
+    "pending": 674,
+    "wiki": 5,
+    "online": 1565
   },
   "fastClassCounts": {
-    "pending:pending": 673,
-    "online:pending": 1567,
-    "wiki:pending": 5
+    "pending:pending": 674,
+    "wiki:pending": 5,
+    "online:pending": 1565
   },
   "strategicCounts": {
-    "pending:0": 671,
-    "online:2": 620,
+    "pending:0": 672,
     "wiki:0": 4,
     "online:3": 7,
-    "online:1": 940,
+    "online:2": 620,
+    "online:1": 938,
     "wiki:1": 1,
     "pending:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1520
+      "count": 1518
     },
     {
       "id": "itch-newest-web",
-      "count": 1503
+      "count": 1501
     },
     {
       "id": "itch-new-feed",
-      "count": 1450
+      "count": 1448
     },
     {
       "id": "itch-new-popular-web",
@@ -48,7 +48,7 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 444
+      "count": 443
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -60,7 +60,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 203
+      "count": 204
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -68,19 +68,19 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 117
+      "count": 116
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 98
+      "count": 97
     },
     {
       "id": "steam-latest-indie",
-      "count": 36
+      "count": 37
     },
     {
       "id": "steam-new",
-      "count": 36
+      "count": 37
     },
     {
       "id": "newgrounds-latest",
@@ -108,7 +108,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 9
+      "count": 10
     },
     {
       "id": "y8-new",
@@ -278,29 +278,6 @@
       ]
     },
     {
-      "name": "Symptoms of Devotion",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 20,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 9,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular",
-        "trends-rising-7d-itch-io",
-        "trends-rising-7d",
-        "trends-rising-30d-itch-io",
-        "trends-rising-30d"
-      ]
-    },
-    {
       "name": "Swamp and Luig",
       "channel": "online",
       "fastClass": "pending",
@@ -358,6 +335,47 @@
         "itch-new-popular-web",
         "itch-popular",
         "steam-popular-new"
+      ]
+    },
+    {
+      "name": "Internet Cafe 98",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 20,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 6,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-new-feed",
+        "itch-new",
+        "itch-newest-web",
+        "steam-popular-new"
+      ]
+    },
+    {
+      "name": "A Thousand Cloys",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 18,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
       ]
     },
     {
@@ -649,6 +667,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Granny's Problematic Hobby",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1079,44 +1116,6 @@
       "sourceIds": [
         "itch-featured-feed",
         "itch-featured",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "MMC5Racing",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Abattlacus",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
       ]
