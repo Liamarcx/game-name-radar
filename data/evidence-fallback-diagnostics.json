@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-24T05:31:13.944Z",
+  "generatedAt": "2026-11-24T16:25:42.929Z",
   "totalCandidates": 3000,
   "pendingSeo": 2244,
   "channelCounts": {
     "pending": 674,
-    "wiki": 5,
-    "online": 1565
+    "wiki": 6,
+    "online": 1564
   },
   "fastClassCounts": {
     "pending:pending": 674,
-    "wiki:pending": 5,
-    "online:pending": 1565
+    "wiki:pending": 6,
+    "online:pending": 1564
   },
   "strategicCounts": {
     "pending:0": 672,
     "wiki:0": 4,
     "online:3": 7,
-    "online:2": 621,
-    "online:1": 937,
-    "wiki:1": 1,
+    "online:2": 623,
+    "online:1": 934,
+    "wiki:1": 2,
     "pending:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1518
+      "count": 1515
     },
     {
       "id": "itch-newest-web",
-      "count": 1501
+      "count": 1498
     },
     {
       "id": "itch-new-feed",
-      "count": 1448
+      "count": 1445
     },
     {
       "id": "itch-new-popular-web",
@@ -76,11 +76,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 37
+      "count": 39
     },
     {
       "id": "steam-new",
-      "count": 37
+      "count": 39
     },
     {
       "id": "newgrounds-latest",
@@ -108,11 +108,11 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 11
+      "count": 12
     },
     {
       "id": "y8-new",
-      "count": 6
+      "count": 8
     },
     {
       "id": "steam-top-wishlist",
@@ -123,12 +123,12 @@
       "count": 4
     },
     {
-      "id": "lagged-new",
-      "count": 2
+      "id": "crazygames-new",
+      "count": 3
     },
     {
-      "id": "crazygames-new",
-      "count": 1
+      "id": "lagged-new",
+      "count": 2
     }
   ],
   "samples": [
@@ -377,6 +377,48 @@
         "itch-new",
         "itch-newest-web",
         "steam-popular-new"
+      ]
+    },
+    {
+      "name": "Amber Eyes",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 18,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
+      "name": "Click Cafe",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 18,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
       ]
     },
     {
@@ -1083,43 +1125,6 @@
         "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "WASH 'EM ALL",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Dungeonbound (In Development)",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-new-popular-web",
-        "itch-popular",
-        "itch-featured-feed",
-        "itch-featured"
       ]
     }
   ]
