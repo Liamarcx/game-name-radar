@@ -1,9 +1,9 @@
 {
-  "scannedAt": "2026-11-23T21:42:21.492Z",
+  "scannedAt": "2026-11-24T05:30:51.321Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 254,
+  "totalAdded": 251,
   "sources": [
     {
       "ok": true,
@@ -17,7 +17,7 @@
       "sourceId": "itch-new-popular-web",
       "sourceName": "itch.io New & Popular",
       "total": 36,
-      "added": 9
+      "added": 10
     },
     {
       "ok": true,
@@ -27,25 +27,24 @@
       "added": 35
     },
     {
-      "ok": true,
+      "ok": false,
       "sourceId": "itch-featured-feed",
       "sourceName": "itch.io Featured Feed",
-      "total": 10,
-      "added": 0
+      "error": "远程站点返回 429"
     },
     {
       "ok": true,
       "sourceId": "steam-top-wishlist",
       "sourceName": "Steam Top Wishlists",
       "total": 50,
-      "added": 6
+      "added": 3
     },
     {
       "ok": true,
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 50,
-      "added": 15
+      "added": 49
     },
     {
       "ok": true,
@@ -59,14 +58,14 @@
       "sourceId": "newgrounds-daily-top",
       "sourceName": "Newgrounds Daily Top Five",
       "total": 5,
-      "added": 0
+      "added": 5
     },
     {
       "ok": true,
       "sourceId": "newgrounds-latest",
       "sourceName": "Newgrounds 最新通过作品",
       "total": 12,
-      "added": 10
+      "added": 11
     },
     {
       "ok": true,
@@ -79,15 +78,15 @@
       "ok": true,
       "sourceId": "poki-new",
       "sourceName": "Poki 新游戏",
-      "total": 154,
-      "added": 13
+      "total": 141,
+      "added": 2
     },
     {
       "ok": true,
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 72,
-      "added": 58
+      "added": 51
     },
     {
       "ok": false,
@@ -100,49 +99,43 @@
       "sourceId": "lagged-new",
       "sourceName": "Lagged 新游戏",
       "total": 80,
-      "added": 6
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-7d-itch-io",
-      "sourceName": "Trends上涨 7天 · itch io",
-      "total": 10,
-      "added": 5
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-30d-itch-io",
-      "sourceName": "Trends上涨 30天 · itch io",
-      "total": 15,
-      "added": 2
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-7d-indie-game",
-      "sourceName": "Trends上涨 7天 · indie game",
-      "total": 23,
-      "added": 6
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-30d-indie-game",
-      "sourceName": "Trends上涨 30天 · indie game",
-      "total": 17,
-      "added": 3
-    },
-    {
-      "ok": true,
-      "sourceId": "trends-rising-7d-horror-game",
-      "sourceName": "Trends上涨 7天 · horror game",
-      "total": 8,
       "added": 0
     },
     {
-      "ok": true,
+      "ok": false,
+      "sourceId": "trends-rising-7d-itch-io",
+      "sourceName": "Trends上涨 7天 · itch io",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-30d-itch-io",
+      "sourceName": "Trends上涨 30天 · itch io",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-7d-indie-game",
+      "sourceName": "Trends上涨 7天 · indie game",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-30d-indie-game",
+      "sourceName": "Trends上涨 30天 · indie game",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
+      "sourceId": "trends-rising-7d-horror-game",
+      "sourceName": "Trends上涨 7天 · horror game",
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
+    },
+    {
+      "ok": false,
       "sourceId": "trends-rising-30d-horror-game",
       "sourceName": "Trends上涨 30天 · horror game",
-      "total": 15,
-      "added": 1
+      "error": "Unexpected token '<', \"<html lang\"... is not valid JSON"
     }
   ],
   "seoVerified": 0,
@@ -194,7 +187,7 @@
   },
   "apifyConfigured": false,
   "apifyAccountStatus": {
-    "checkedAt": "2026-11-23T21:42:20.510Z",
+    "checkedAt": "2026-11-24T05:30:50.669Z",
     "configured": false,
     "ok": false,
     "provider": "apify",
@@ -231,7 +224,7 @@
   "googleCseUsage": {
     "enabled": false,
     "configuredSlots": 0,
-    "day": "2026-11-23",
+    "day": "2026-11-24",
     "totalDayUsed": 0,
     "totalDailyLimit": 0,
     "slots": {},
@@ -275,7 +268,7 @@
     "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-11-23T21:42:47.658Z"
+    "ranAt": "2026-11-24T05:31:13.759Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
@@ -297,7 +290,7 @@
       "pending": 0
     },
     "verifiedNames": [],
-    "ranAt": "2026-11-23T21:42:48.477Z"
+    "ranAt": "2026-11-24T05:31:14.285Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 3,
@@ -319,10 +312,10 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-11-23T21:42:49.731Z"
+    "ranAt": "2026-11-24T05:31:15.144Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-11-23T21:42:49.807Z",
+    "checkedAt": "2026-11-24T05:31:15.201Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 0,
     "workingKeys": 0,
@@ -374,12 +367,12 @@
     "configuredSlots": 0,
     "month": "2026-11",
     "monthUsed": 0,
-    "day": "2026-11-23",
+    "day": "2026-11-24",
     "dayUsed": 0,
     "monthlyLimit": 0,
     "dailyLimit": 0,
     "accounts": {},
-    "updatedAt": "2026-11-23T21:42:49.910Z"
+    "updatedAt": "2026-11-24T05:31:15.308Z"
   },
   "serpApiQuotaFill": {
     "configuredSlots": 0
@@ -433,15 +426,15 @@
     },
     "pendingByChannel": {
       "online": 344,
-      "wiki": 72
+      "wiki": 69
     },
     "pendingByTier": {
       "strong": 238,
       "secondary": 151,
-      "strategic": 27
+      "strategic": 24
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-11-23T21:42:50.550Z"
+    "ranAt": "2026-11-24T05:31:15.705Z"
   }
 }
