@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-25T09:49:00.498Z",
+  "generatedAt": "2026-11-25T19:55:36.467Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2239,
+  "pendingSeo": 2236,
   "channelCounts": {
-    "pending": 682,
-    "wiki": 12,
-    "online": 1545
+    "pending": 686,
+    "wiki": 10,
+    "online": 1540
   },
   "fastClassCounts": {
-    "pending:pending": 682,
-    "wiki:pending": 12,
-    "online:pending": 1545
+    "pending:pending": 686,
+    "wiki:pending": 10,
+    "online:pending": 1540
   },
   "strategicCounts": {
-    "pending:0": 680,
+    "pending:0": 684,
     "wiki:0": 4,
     "online:3": 7,
-    "online:2": 625,
-    "online:1": 913,
-    "wiki:1": 8,
+    "online:2": 626,
+    "online:1": 907,
+    "wiki:1": 6,
     "pending:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1498
+      "count": 1492
     },
     {
       "id": "itch-newest-web",
-      "count": 1480
+      "count": 1474
     },
     {
       "id": "itch-new-feed",
-      "count": 1428
+      "count": 1422
     },
     {
       "id": "itch-new-popular-web",
@@ -44,27 +44,27 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 587
+      "count": 591
     },
     {
       "id": "trends-rising-30d",
-      "count": 446
+      "count": 449
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 283
+      "count": 284
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 239
+      "count": 240
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 208
+      "count": 211
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 125
+      "count": 127
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -76,11 +76,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 39
+      "count": 41
     },
     {
       "id": "steam-new",
-      "count": 39
+      "count": 41
     },
     {
       "id": "newgrounds-latest",
@@ -108,11 +108,11 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 18
+      "count": 16
     },
     {
       "id": "y8-new",
-      "count": 7
+      "count": 8
     },
     {
       "id": "steam-top-wishlist",
@@ -124,7 +124,7 @@
     },
     {
       "id": "lagged-new",
-      "count": 2
+      "count": 3
     },
     {
       "id": "crazygames-new",
@@ -422,6 +422,27 @@
       ]
     },
     {
+      "name": "Incremental Pain Profit",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 18,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
       "name": "Ball Pit Blitz",
       "channel": "online",
       "fastClass": "pending",
@@ -476,24 +497,6 @@
         "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Of The World",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 12,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-new-popular-web",
-        "itch-popular",
-        "itch-featured-feed",
-        "itch-featured"
       ]
     },
     {
@@ -808,6 +811,24 @@
       ]
     },
     {
+      "name": "Of The World",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 12,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-featured-feed",
+        "itch-featured"
+      ]
+    },
+    {
       "name": "Granny's Problematic Hobby",
       "channel": "online",
       "fastClass": "pending",
@@ -1098,25 +1119,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Dig to the Core",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
