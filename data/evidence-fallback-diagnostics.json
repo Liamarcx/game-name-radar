@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-11-26T12:22:17.501Z",
+  "generatedAt": "2026-11-26T21:56:17.180Z",
   "totalCandidates": 3000,
   "pendingSeo": 2232,
   "channelCounts": {
-    "pending": 695,
-    "wiki": 9,
-    "online": 1528
+    "pending": 694,
+    "wiki": 13,
+    "online": 1525
   },
   "fastClassCounts": {
-    "pending:pending": 695,
-    "wiki:pending": 9,
-    "online:pending": 1528
+    "pending:pending": 694,
+    "wiki:pending": 13,
+    "online:pending": 1525
   },
   "strategicCounts": {
-    "pending:0": 693,
+    "pending:0": 692,
     "wiki:0": 4,
     "online:3": 7,
-    "online:2": 625,
-    "online:1": 896,
-    "wiki:1": 5,
+    "online:2": 626,
+    "online:1": 892,
+    "wiki:1": 9,
     "pending:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1481
+      "count": 1477
     },
     {
       "id": "itch-newest-web",
-      "count": 1463
+      "count": 1459
     },
     {
       "id": "itch-new-feed",
-      "count": 1411
+      "count": 1407
     },
     {
       "id": "itch-new-popular-web",
@@ -48,7 +48,7 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 454
+      "count": 455
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -64,7 +64,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 129
+      "count": 130
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -76,11 +76,11 @@
     },
     {
       "id": "steam-latest-indie",
-      "count": 41
+      "count": 42
     },
     {
       "id": "steam-new",
-      "count": 41
+      "count": 42
     },
     {
       "id": "newgrounds-latest",
@@ -108,11 +108,11 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 15
+      "count": 18
     },
     {
       "id": "y8-new",
-      "count": 7
+      "count": 8
     },
     {
       "id": "steam-top-wishlist",
@@ -123,12 +123,12 @@
       "count": 4
     },
     {
-      "id": "lagged-new",
+      "id": "crazygames-new",
       "count": 2
     },
     {
-      "id": "crazygames-new",
-      "count": 1
+      "id": "lagged-new",
+      "count": 2
     }
   ],
   "samples": [
@@ -754,25 +754,6 @@
       ]
     },
     {
-      "name": "Point & Click Test - Godot Edition",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Incremental Scope",
       "channel": "online",
       "fastClass": "pending",
@@ -1119,6 +1100,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Dig to the Core",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
