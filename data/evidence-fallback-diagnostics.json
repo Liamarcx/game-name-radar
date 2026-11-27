@@ -1,38 +1,39 @@
 {
-  "generatedAt": "2026-11-27T13:49:46.638Z",
+  "generatedAt": "2026-11-27T22:40:53.897Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2224,
+  "pendingSeo": 2223,
   "channelCounts": {
-    "pending": 695,
-    "wiki": 7,
-    "online": 1522
+    "pending": 696,
+    "wiki": 10,
+    "online": 1517
   },
   "fastClassCounts": {
-    "pending:pending": 695,
-    "wiki:pending": 7,
-    "online:pending": 1522
+    "pending:pending": 696,
+    "wiki:pending": 10,
+    "online:pending": 1517
   },
   "strategicCounts": {
-    "pending:0": 693,
+    "pending:0": 694,
     "wiki:0": 4,
     "online:3": 7,
-    "online:2": 626,
-    "online:1": 889,
-    "wiki:1": 3,
+    "online:2": 625,
+    "online:1": 885,
+    "wiki:2": 1,
+    "wiki:1": 5,
     "pending:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1474
+      "count": 1469
     },
     {
       "id": "itch-newest-web",
-      "count": 1457
+      "count": 1452
     },
     {
       "id": "itch-new-feed",
-      "count": 1404
+      "count": 1399
     },
     {
       "id": "itch-new-popular-web",
@@ -44,11 +45,11 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 603
+      "count": 604
     },
     {
       "id": "trends-rising-30d",
-      "count": 455
+      "count": 457
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -60,11 +61,11 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 215
+      "count": 216
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 130
+      "count": 131
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -72,15 +73,15 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 99
+      "count": 100
     },
     {
       "id": "steam-latest-indie",
-      "count": 41
+      "count": 42
     },
     {
       "id": "steam-new",
-      "count": 41
+      "count": 42
     },
     {
       "id": "newgrounds-latest",
@@ -108,11 +109,11 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 13
+      "count": 16
     },
     {
       "id": "y8-new",
-      "count": 8
+      "count": 7
     },
     {
       "id": "steam-top-wishlist",
@@ -398,25 +399,6 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
-      ]
-    },
-    {
-      "name": "Ball Pit Blitz",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
       ]
     },
     {
@@ -732,6 +714,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Ball Pit Blitz",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
